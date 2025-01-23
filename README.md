@@ -1,4 +1,4 @@
-# Hi there, I'm Greed! 👋
+# Hi there, I'm Abhijit(or Greed your choice)! 👋
 
 I'm a passionate Pentester who loves to explore new technologies, new ways to break systems and work on innovative projects such as ricing Operating Systems. Welcome to my GitHub profile!
 
