@@ -26,6 +26,6 @@ Astral Eclipse: https://github.com/greedoftheendless/Astral-Eclipse
 
 - [LinkedIn](Your LinkedIn Profile)
 - [Email] greedoftheendless@gmail.com(personal/alt acc)
-          -abhijitsudheer2005@gmail.com(work/official)
+  -abhijitsudheer2005@gmail.com(work/official)
 
 Thanks for visiting my profile! Have a great day! 😊
