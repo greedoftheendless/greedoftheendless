@@ -11,7 +11,7 @@ I'm a passionate Pentester who loves to explore new technologies, new ways to br
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python/Bash/Vim
+- Programming Languages: Python/Bash
 
 ## 🌟 Projects & Contributions
 
