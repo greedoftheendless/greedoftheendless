@@ -6,7 +6,6 @@ I'm a passionate developer who loves to explore new technologies and work on inn
 
 - 🔭 I’m currently working on: Cryptographic and Riced Hyprland.
 - 🌱 I’m currently learning: CYber-Security(Cloud Pentesting)
-- 🤔 I’m looking for help with: [Areas where you need assistance]
 - 💬 Ask me about: Pentesting, Linux and Ricing 
 - ⚡ Fun fact: I use Arch btw :D
 
