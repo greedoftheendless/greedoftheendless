@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm greedoftheendless! 👋
 
-<!--
-**greedoftheendless/greedoftheendless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves to explore new technologies and work on innovative projects. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Cryptographic and Riced Hyprland.
+- 🌱 I’m currently learning: CYber-Security(Cloud Pentesting)
+- 🤔 I’m looking for help with: [Areas where you need assistance]
+- 💬 Ask me about: Pentesting, Linux and Ricing 
+- ⚡ Fun fact: I use Arch btw :D
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: Python/Bash/Vim
+
+## 🌟 Projects & Contributions
+
+Here are some of my notable projects:
+t.
+
+## 📈 GitHub Stats
+
+![greedoftheendless's GitHub stats](https://github-readme-stats.vercel.app/api?username=greedoftheendless&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](Your LinkedIn Profile)
+- [Email](Your Email Address)
+
+Thanks for visiting my profile! Have a great day! 😊
