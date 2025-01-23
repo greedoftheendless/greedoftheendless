@@ -1,6 +1,6 @@
 # Hi there, I'm Greed! 👋
 
-I'm a passionate developer who loves to explore new technologies and work on innovative projects. Welcome to my GitHub profile!
+I'm a passionate Pentester who loves to explore new technologies, new ways to break systems and work on innovative projects such as ricing Operating Systems. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
