@@ -18,9 +18,7 @@ I'm a passionate Pentester who loves to explore new technologies, new ways to br
 Here are some of my notable projects:
 Astral Eclipse: https://github.com/greedoftheendless/Astral-Eclipse
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&count={count})
-
-## 📈 GitHub Stats
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})## 📈 GitHub Stats
 
 ![greedoftheendless's GitHub stats](https://github-readme-stats.vercel.app/api?username=greedoftheendless&show_icons=true&theme=radical)
 
