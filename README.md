@@ -42,12 +42,4 @@
 
 <img src="https://raw.githubusercontent.com/Greedoftheendless/Greedoftheendless/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/greedoftheendless">
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})
-  </a>
-</div>
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})
