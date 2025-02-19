@@ -54,3 +54,9 @@
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greedoftheendless&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
