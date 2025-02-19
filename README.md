@@ -1,29 +1,53 @@
-# Hi there, I'm Abhijit(or Greed your choice)! 👋
+<h2 align="left">Hi 👋! My name is Greed and I'm a Cloud VAPT and Linux enthusiast and ricer.<br><br><br>🚀 About Me<br><br>    🔭 I’m currently working on: Cryptographic and Riced Hyprland.<br>    🌱 I’m currently learning: CYber-Security(Cloud Pentesting)<br>    💬 Ask me about: Pentesting, Linux and Ricing<br>    ⚡ Fun fact: I use Arch btw :D</h2>
 
-I'm a passionate Pentester who loves to explore new technologies, new ways to break systems and work on innovative projects such as ricing Operating Systems. Welcome to my GitHub profile!
+###
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Greedoftheendless&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Greedoftheendless&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on: Cryptographic and Riced Hyprland.
-- 🌱 I’m currently learning: CYber-Security(Cloud Pentesting)
-- 💬 Ask me about: Pentesting, Linux and Ricing 
-- ⚡ Fun fact: I use Arch btw :D
+###
 
-## 🛠️ Technologies & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="70" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="70" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="70" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+</div>
 
-- Programming Languages: Python/Bash
+###
 
-## 🌟 Projects & Contributions
+<img align="right" height="135" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno1cWNxN3VhbzdhdW90Y2Y0b3dkYjFpc3poYW52d2h5NzdpbzJtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif"  />
 
-Here are some of my notable projects:
-Astral Eclipse: https://github.com/greedoftheendless/Astral-Eclipse
+###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})## 📈 GitHub Stats
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo"  />
+</div>
 
-![greedoftheendless's GitHub stats](https://github-readme-stats.vercel.app/api?username=greedoftheendless&show_icons=true&theme=radical)
+###
 
-## 📫 Connect with Me
+<img src="https://raw.githubusercontent.com/Greedoftheendless/Greedoftheendless/output/snake.svg" alt="Snake animation" />
 
-- [Email] greedoftheendless@gmail.com(personal/alt acc), abhijitsudheer2005@gmail.com(work/official)
+###
 
-Thanks for visiting my profile! Have a great day! 😊
+<div align="center">
+  <a href="https://open.spotify.com/user/greedoftheendless">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=greedoftheendless&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
