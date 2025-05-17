@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Greed and I'm a Cloud VAPT and Linux enthusiast and Ricer.
+<h2 align="centre">Hi there 👋! Greed here. Ethical Hacker and Ricer
 <h2 align="left">About me</h2>
 
 <p align="left">🔭 I’m currently working on: Cryptographic and Riced Hyprland.<br>🌱 I’m currently learning: CYber-Security(Cloud Pentesting)<br>💬 Ask me about: Pentesting, Linux and Ricing<br>⚡ Fun fact: I use Arch btw :D</p>
