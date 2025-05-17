@@ -7,7 +7,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Greedoftheendless&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=greedoftheendless&theme=midnight-purple&hide_border=false&count_private=true" height="200" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Greedoftheendless&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <div align="center">
@@ -62,8 +65,9 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q4MTZqMGRwbzdmcnluaW5jd
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=greedoftheendless&theme=midnight-purple&hide_border=false&count_private=true" height="200" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/4-krishna/4-krishna/output/snake.svg" alt="Snake animation" />
+
 
 ###
