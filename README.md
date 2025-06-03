@@ -8,7 +8,6 @@
    <a href="https://www.linkedin.com/in/4abhijit" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
    </a>
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo" />
  <a href="https://tryhackme.com/p/Greedoftheendless" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
