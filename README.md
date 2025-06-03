@@ -1,3 +1,21 @@
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+</div>
+
+###
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/4abhijit" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+   </a>
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo" />
+ <a href="https://tryhackme.com/p/Greedoftheendless" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="centre">Hi there 👋! Greed here. Ethical Hacker and Ricer
 <h2 align="left">About me</h2>
 
@@ -30,37 +48,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="70" alt="fedora logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="70" alt="gimp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
-</div>
-
 
 ###
 
 <img align="right" height="200" width="200"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q4MTZqMGRwbzdmcnluaW5jdm5kMG4xaG15dW90azliYm9haHBwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CihaEMp5sORi/giphy.gif" />
-
-###
-
-<div align="left">
-  <a href="greedoftheendless" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="greedoftheendless@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/4abhijit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/Greedoftheendless" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-</div>
-
-###
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kpn2v6yjhte424m3t4rb3jtk4&unique={true|1|on|yes})
