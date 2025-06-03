@@ -21,6 +21,13 @@
 <p align="left">🔭 I’m currently working on: Ricing Hyprland <br>🌱 I’m currently learning: Cyber-Security and Cyrptography<br>💬 Ask me about: Pentesting, Linux and Ricing<br>⚡ Fun fact: I use Arch btw :D</p>
 
 ###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
 ###
 
 <div align="center">
@@ -37,13 +44,6 @@
 ###
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
 ###
 
 <img align="right" height="200" width="200"
