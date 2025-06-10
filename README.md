@@ -18,7 +18,7 @@
 <h2 align="centre">Hi there 👋! Greed here. Ethical Hacker and Ricer
 <h2 align="left">About me</h2>
 
-<p align="left">🔭 I’m currently working on: Ricing a riced Nix OS <br>🌱 I’m currently learning: Cyber-Security and Cyrptography<br>💬 Ask me about: Pentesting, Linux and Ricing<br>⚡</p>
+<p align="left">🔭 I’m currently working on: Ricing a riced Nix OS <br>🌱 I’m currently learning: Cyber-Security and Cyrptography<br>💬 Ask me about: Pentesting, Linux and Ricing<br></p>
 
 ###
 
