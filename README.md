@@ -20,6 +20,9 @@
 
 <p align="left">🔭 I’m currently working on: Ricing and building Nix OS <br>🌱 I’m currently learning: Preparing for CEH final preps and eJPT<br>💬 Ask me about: Pentesting, Linux and Ricing<br></p>
 
+<img align="right" height="200" width="200"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q4MTZqMGRwbzdmcnluaW5jdm5kMG4xaG15dW90azliYm9haHBwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CihaEMp5sORi/giphy.gif" />
+
 ###
 
 <div align="left">
