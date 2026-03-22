@@ -45,7 +45,7 @@ Current_focus:
   - UI UX Designing
   - Web Development
   - Nix System Automation
-Education: B.Tech in Computer Science
+Education: BCA in Computer Science
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
