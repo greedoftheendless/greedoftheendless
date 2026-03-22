@@ -6,7 +6,7 @@
 
 <!-- ───────────────────────── ANIMATED HEADER ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3ce9,100:a855f7&height=220&section=header&text=Greed%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20Product%20Design%20%E2%80%A2%20Engineering&descSize=18&descColor=c4b5fd&descAlignY=55&fontFamily=Montserrat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3ce9,100:a855f7&height=220&section=header&text=Greed%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20Product%20Design%20%E2%80%A2%20Engineering&descSize=18&descColor=c4b5fd&descAlignY=55&fontFamily=Montserrat" width="100%"/>
 
 <!-- ───────────────────────── TYPING EFFECT ───────────────────────── -->
 
