@@ -217,11 +217,11 @@ Education: BCA in Computer Science
 <table align="center">
   <tr>
     <td><b>Currently Working On</b></td>
-    <td>Full-stack products & cybersecurity research</td>
+    <td>Cybersecurity research</td>
   </tr>
   <tr>
     <td><b>Currently Learning</b></td>
-    <td>Advanced pentesting, Cloud Security</td>
+    <td>Advanced pentesting, Malware Analysis</td>
   </tr>
   <tr>
     <td><b>Looking to Collaborate</b></td>
@@ -229,11 +229,7 @@ Education: BCA in Computer Science
   </tr>
   <tr>
     <td><b>Ask Me About</b></td>
-    <td>UI/UX Design, Web Security, React, Product Strategy</td>
-  </tr>
-  <tr>
-    <td><b>Fun Fact</b></td>
-    <td>I design in light mode but code in dark mode</td>
+    <td>UI/UX Design, Web Security, Product Strategy</td>
   </tr>
 </table>
 
