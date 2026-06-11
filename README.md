@@ -130,10 +130,6 @@ Education: BCA in Computer Science
       <br/><b>Git</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-      <br/><b>VS Code</b>
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
       <br/><b>Linux</b>
     </td>
