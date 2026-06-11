@@ -107,10 +107,6 @@ Education: BCA in Computer Science
       <br/><b>Figma</b>
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="48" height="48"/>
-      <br/><b>Photoshop</b>
-    </td>
-    <td align="center" width="96">
       <img src="https://img.shields.io/badge/Ae-7c3aed?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Express" height="48"/>
       <br/><b>Adobe Express</b>
     </td>
